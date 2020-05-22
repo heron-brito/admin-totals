@@ -3,6 +3,9 @@ from __future__ import division, print_function, unicode_literals
 
 from django.contrib import admin
 from django.contrib.admin.views.main import ChangeList
+import logging
+logger = logging.getLogger(__name__)
+
 
 '''
 class ChangeListTotals(ChangeList):
