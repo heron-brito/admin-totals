@@ -13,7 +13,7 @@ Module to show totals in Django Admin List.
 
 Or
 
-    pip install git+https://github.com/douwevandermeij/admin-totals.git
+    pip install git+https://github.com/heron-brito/admin-totals.git
 
 ## Usage
 
